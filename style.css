@@ -1,0 +1,8 @@
+img {
+    width: auto;
+    height: 110px;
+}
+
+.title {
+    display:flex
+}
