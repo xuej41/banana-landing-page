@@ -1,8 +1,28 @@
-img {
+.bunchofbananas {
     width: auto;
     height: 110px;
+    border-radius: 10px;
+    margin-right: 10px;
 }
 
-.title {
+.bananasuicide {
+    width: auto;
+    height: 300px;
+    float: right;
+    border-radius: 20px;
+}
+.navbar {
+    display: flex;
+}
+
+.navbartitle {
+    display:flex
+}
+
+.navbarmenu {
+    display:flex
+}
+
+.info {
     display:flex
 }
