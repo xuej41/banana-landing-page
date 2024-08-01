@@ -7,9 +7,11 @@
 
 .bananasuicide {
     width: auto;
-    height: 300px;
+    height: 200px;
     float: right;
     border-radius: 20px;
+    border-width: 20px;
+    border-color: red;
 }
 .navbar {
     display: flex;
@@ -25,4 +27,19 @@
 
 .info {
     display:flex
+    
+}
+
+.ways {
+    text-align: center;
+}
+
+.steps {
+    display: flex;
+}
+
+.stepImages {
+    width: auto;
+    height: 200px;
+    border-radius: 20px;
 }
