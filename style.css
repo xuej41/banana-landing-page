@@ -15,19 +15,25 @@
 }
 .navbar {
     display: flex;
+    background-color: #1f2937;
 }
 
 .navbartitle {
     display:flex
 }
 
-.navbarmenu {
+.navbarlinks {
+    float: right;
     display:flex
 }
 
 .info {
     display:flex
     
+}
+
+button {
+
 }
 
 .ways {
@@ -42,4 +48,16 @@
     width: auto;
     height: 200px;
     border-radius: 20px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.name {
+    text-align: end;
+}
+
+.bananaNewsletters {
+    display: flex;
 }
