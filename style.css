@@ -33,7 +33,7 @@
 }
 
 button {
-
+    background-color: aqua;
 }
 
 .ways {
@@ -60,4 +60,8 @@ button {
 
 .bananaNewsletters {
     display: flex;
+}
+
+.newsletterButton {
+    color:aliceblue;
 }
