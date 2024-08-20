@@ -1,3 +1,7 @@
+h1, h2, h3, h4, h5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .bunchofbananas {
     width: auto;
     height: 110px;
@@ -33,7 +37,15 @@
 }
 
 button {
-    background-color: aqua;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    border-color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    cursor: pointer;
+
 }
 
 .ways {
