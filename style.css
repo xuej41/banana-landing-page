@@ -41,8 +41,9 @@ a:hover {
     display:flex
 }
 
-.navbarlinks {
+.navbarlinks, h3 {
    display:flex;
+   font-weight: normal;
 }
 
 .info {
@@ -87,29 +88,47 @@ button:hover {
 .ways {
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 .steps {
     display: flex;
     justify-content: center;
+    text-align: center;
+    gap: 40px;
+    padding-bottom: 20px;
 }
 
-.stepImages {
-    width: auto;
+.stepItem {
+    max-width: 200px;
+}
+
+.steps h3 {
+    font-weight: normal;
+    flex-wrap: wrap;
+}
+
+.steps img {
+    width: 200px;
     height: 200px;
     border-radius: 20px;
     border: 5px solid rgb(0, 110, 255);
 }
 
 .quote {
-    text-align: center;
     background-color: rgb(230, 230, 230);
-    padding: 20px;
+    padding: 10px;
+}
+
+.text {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: normal;
 }
 
 .name {
     text-align: end;
-    padding-right: 500px;
+    padding-right: 350px;
 }
 
 .bananaNewsletters {
