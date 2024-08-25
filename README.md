@@ -7,4 +7,4 @@ I took heavy inspiration from [PakmanGames](https://github.com/PakmanGames), who
 
 The project was very enjoyable, and I learned many new webdev concepts along the way.
 
-Check out the website [here](https://rulbirt.github.io/website-test/) or click the link under the "About" section.
+Check out the website [here](https://rulbirt.github.io/banana-landing-page/) or click the link under the "About" section.
