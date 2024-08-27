@@ -8,3 +8,7 @@ I took heavy inspiration from [PakmanGames](https://github.com/PakmanGames), who
 The project was very enjoyable, and I learned many new webdev concepts along the way.
 
 Check out the website [here](https://rulbirt.github.io/banana-landing-page/) or click the link under the "About" section.
+
+Here are the reference images from which I based the website:
+![reference-image-1](./reference-images/landing-page-01.png)
+![reference-image-2](./reference-images/landing-page-02.png)
